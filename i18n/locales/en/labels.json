@@ -1,0 +1,46 @@
+{
+    "title":{
+        "about": "About",
+        "education":"Education",
+        "experiences":"Work Experiences",
+        "skills": "Skills & Languages",
+        "projects": "Projects"
+    },
+    "nav": {
+        "about": "About",
+        "education":"Education",
+        "experiences":"Experience",
+        "skills": "Skills & Languages",
+        "projects": "Projects"
+    },
+    "labels" : {
+        "markdown": {
+            "index" : "index"
+        },
+        "experience": {
+            "duties": "Duties",
+            "achievements": "Achievements"
+        },
+        "education": {
+            
+        },
+        "skills": {
+            "skills": "Skills",
+            "languages": "Languages",
+            "group": {
+                "first" : "Most Used",
+                "second" : "Experienced"
+            }
+        },
+        "projects": {
+            "details": "Details",
+            "duties": "Duties",
+            "achievements": "Achievements",
+            "limitations": "Limitations"
+        }
+    },
+    "md": {
+        "notFound": "Page not found",
+        "notFoundDesc": "This page does not exist or has been moved."
+    }
+}

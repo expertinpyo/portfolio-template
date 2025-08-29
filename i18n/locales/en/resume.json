@@ -1,0 +1,241 @@
+{
+  "about": {
+    "fullName" : "Jordan Bauer",
+    "firstName": "Jordan",
+    "lastName": "Bauer",
+    "typedTargets": [
+      "Full-Stack Web Developer",
+      "Frontend and Backend Engineer",
+      "Continuous Learner"
+    ],
+    "location": "Europe",
+    "phone": "+1 00 000 0000",
+    "email": "jordan.bauer{'@'}example.com",
+    "linkedin": "https://www.linkedin.com/",
+    "github": "https://github.com/",
+    "desc": [
+      "3+ years of web development experience",
+      "Focused on scalable frontend & backend applications",
+      "Comfortable working in agile teams with modern stacks"
+    ],
+    "profile" : "/imgs/profile.png"
+  },
+
+  "experience": {
+    "list": [
+      {
+        "company": "Acme Solutions",
+        "team": "Web Applications Division",
+        "logo": "/imgs/logo_acme.png",
+        "link": "https://example.com/acme",
+        "role": "Full-Stack Engineer",
+        "period": "Nov 2023 - Present",
+        "projects": [
+          {
+            "title": "Analytics Dashboard",
+            "subtitle": "Real-time dashboard for company KPIs",
+            "period": "May 2024 - Oct 2024",
+            "slug": "acme-dummy",
+            "duties": [
+              { "text": "Frontend", "sub": [ "Data visualization with Chart.js", "Responsive layout with TailwindCSS" ] },
+              { "text": "Backend", "sub": [ "WebSocket live updates", "Data aggregation & caching with Redis" ] }
+            ],
+            "achievements": [
+              "Enabled live monitoring of KPIs",
+              "Improved data query response time by 40%"
+            ],
+            "stacks": [ "Vue.js", "Spring Boot", "Redis", "PostgreSQL" ]
+          }
+        ]
+      },
+      {
+        "company": "NordicSoft",
+        "team": "Digital Services",
+        "logo": "/imgs/logo_nordicsoft.png",
+        "link": "https://example.com/nordicsoft",
+        "role": "Software Engineer",
+        "period": "Jan 2022 - Oct 2023",
+        "projects": [
+          {
+            "title": "Customer Portal",
+            "subtitle": "Self-service portal for B2B customers",
+            "period": "Mar 2022 - Dec 2022",
+            "slug": "",
+            "duties": [
+              { "text": "Frontend", "sub": [ "Single-page app with Vue 3", "Form validation & API integration" ] },
+              { "text": "Backend", "sub": [ "Spring Boot microservices", "MySQL with JPA & QueryDSL" ] }
+            ],
+            "achievements": [
+              "Adopted by 100+ customers within 6 months",
+              "Reduced support tickets by 25%"
+            ],
+            "stacks": [ "Vue.js", "Spring Boot", "MySQL", "Java" ]
+          },
+          {
+            "title": "Content Management System",
+            "subtitle": "Headless CMS for marketing teams",
+            "period": "Jan 2023 - Oct 2023",
+            "slug": "",
+            "duties": [
+              { "text": "Backend", "sub": [ "GraphQL API with Spring Boot", "Image/file storage integration" ] },
+              { "text": "Frontend", "sub": [ "Vue + Apollo Client", "Drag-and-drop editor" ] }
+            ],
+            "achievements": [
+              "Empowered non-technical staff to manage content",
+              "Reduced publishing cycle from 3 days to 1 day"
+            ],
+            "stacks": [ "Vue.js", "Spring Boot", "GraphQL", "AWS S3" ]
+          }
+        ]
+      },
+      {
+        "company": "CloudEdge",
+        "team": "Web Engineering",
+        "logo": "/imgs/logo_cloudedge.png",
+        "link": "https://example.com/cloudedge",
+        "role": "Junior Web Developer",
+        "period": "Jan 2021 - Dec 2021",
+        "projects": [
+          {
+            "title": "E-Commerce Platform",
+            "subtitle": "Scalable platform with shopping cart & checkout",
+            "period": "Jan 2021 - Sep 2021",
+            "slug": "",
+            "duties": [
+              { "text": "Frontend", "sub": [ "Vue 2 migration to Vue 3", "Optimized checkout flow" ] },
+              { "text": "Backend", "sub": [ "REST APIs for products/orders", "Payment gateway integration" ] }
+            ],
+            "achievements": [
+              "Increased conversion rate by 15%",
+              "Stable handling of 10k+ daily users"
+            ],
+            "stacks": [ "Vue.js", "Node.js", "MongoDB", "Express" ]
+          }
+        ]
+      }
+    ]
+  },
+
+  "education": {
+    "list": [
+      {
+        "name": "Tech Academy Europe",
+        "degree": "Full-Stack Web Development Program (1500+ hours)",
+        "period": "Jan 2020 - Dec 2020",
+        "desc": [
+          "Studied modern web stacks: Vue, React, Node.js, Spring Boot",
+          "Team projects in agile environment",
+          "Focus on REST API design, DB schema, and frontend integration"
+        ],
+        "link": "https://example.com/techacademy",
+        "logo": "/imgs/logo_techacademy.png"
+      },
+      {
+        "name": "University of Applied Sciences",
+        "degree": "B.Sc. Computer Engineering",
+        "period": "Sep 2015 - Jun 2019",
+        "desc": [
+          "Software engineering fundamentals",
+          "OOP, Data structures, Algorithms",
+          "Introductory AI & Cloud computing"
+        ],
+        "link": "https://example.com/university",
+        "logo": "/imgs/logo_university.png"
+      }
+    ]
+  },
+
+  "project": {
+    "list": [
+      {
+        "title": "Workforce Portal",
+        "subtitle": "Internal project & workforce management",
+        "role": "Full-Stack Engineer",
+        "period": "2024",
+        "details": [ "Vue 3 frontend", "Spring Boot API", "JWT authentication" ],
+        "duties": [ "Frontend state management", "DB schema & API design" ],
+        "achievements": [ "Improved transparency for resource planning" ],
+        "stacks": [ "Vue.js", "Spring Boot", "PostgreSQL" ]
+      },
+      {
+        "title": "Analytics Dashboard",
+        "subtitle": "Real-time monitoring of company KPIs",
+        "role": "Frontend Developer",
+        "period": "2024",
+        "details": [ "Realtime charts", "Live WebSocket updates" ],
+        "duties": [ "Chart.js integration", "WebSocket handling" ],
+        "achievements": [ "Reduced decision-making latency" ],
+        "stacks": [ "Vue.js", "Spring Boot", "Redis" ]
+      },
+      {
+        "title": "Customer Portal",
+        "subtitle": "B2B self-service web app",
+        "role": "Backend Developer",
+        "period": "2023",
+        "details": [ "Spring Boot microservices", "MySQL queries" ],
+        "duties": [ "DB schema design", "REST API for users/orders" ],
+        "achievements": [ "Reduced support requests" ],
+        "stacks": [ "Spring Boot", "MySQL", "Java" ]
+      },
+      {
+        "title": "Content Management System",
+        "subtitle": "Headless CMS for marketing",
+        "role": "Full-Stack Developer",
+        "period": "2023",
+        "details": [ "GraphQL backend", "Vue + Apollo frontend" ],
+        "duties": [ "API design", "Rich text editor UI" ],
+        "achievements": [ "Reduced publishing time" ],
+        "stacks": [ "Spring Boot", "GraphQL", "Vue.js" ]
+      },
+      {
+        "title": "E-Commerce Platform",
+        "subtitle": "Online store with checkout",
+        "role": "Junior Web Developer",
+        "period": "2021",
+        "details": [ "Vue migration", "Payment integration" ],
+        "duties": [ "Optimized frontend flow", "Payment API integration" ],
+        "achievements": [ "Increased conversion rate" ],
+        "stacks": [ "Vue.js", "Node.js", "MongoDB" ]
+      }
+    ]
+  },
+
+  "skills": {
+    "list": [
+      {
+        "group": "first",
+        "name": "Vue.js",
+        "icon": "fa-brands fa-vuejs",
+        "desc": [ "SPA development", "Composition API", "State management with Pinia/Vuex" ]
+      },
+      {
+        "group": "first",
+        "name": "Spring Boot",
+        "icon": "fa-solid fa-leaf",
+        "desc": [ "REST APIs", "Authentication & RBAC", "Query optimization" ]
+      },
+      {
+        "group": "first",
+        "name": "Databases",
+        "icon": "fa fa-database",
+        "desc": [ "PostgreSQL/MySQL schema design", "SQL tuning", "ORM with JPA/QueryDSL" ]
+      },
+      {
+        "group": "second",
+        "name": "Node.js",
+        "icon": "fa-brands fa-node",
+        "desc": [ "API development with Express", "Integration with MongoDB" ]
+      },
+      {
+        "group": "second",
+        "name": "Git & CI/CD",
+        "icon": "fa-brands fa-git-alt",
+        "desc": [ "Feature branches & code reviews", "CI pipelines for build/test" ]
+      }
+    ],
+    "languages": [
+      { "name": "English", "level": "Fluent (C1)", "country": "US" },
+      { "name": "German", "level": "Intermediate (B1)", "country": "DE" }
+    ]
+  }
+}

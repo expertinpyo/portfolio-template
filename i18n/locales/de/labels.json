@@ -1,0 +1,45 @@
+{
+  "title": {
+    "about": "Über mich",
+    "education": "Ausbildung",
+    "experiences": "Berufserfahrung",
+    "skills": "Fähigkeiten & Sprachen",
+    "projects": "Projekte"
+  },
+  "nav": {
+    "about": "Über mich",
+    "education": "Ausbildung",
+    "experiences": "Berufserfahrung",
+    "skills": "Fähigkeiten & Sprachen",
+    "projects": "Projekte"
+  },
+  "labels": {
+    "markdown": {
+      "index": "Inhalt"
+    },
+    "experience": {
+      "duties": "Aufgaben",
+      "achievements": "Erfolge"
+    },
+    "education": {
+    },
+    "skills": {
+      "skills": "Fähigkeiten",
+      "languages": "Sprachen",
+      "group": {
+        "first": "Am häufigsten genutzt",
+        "second": "Erfahren"
+      }
+    },
+    "projects": {
+      "details": "Details",
+      "duties": "Aufgaben",
+      "achievements": "Erfolge",
+      "limitations": "Einschränkungen"
+    }
+  },
+  "md": {
+    "notFound": "Seite nicht gefunden",
+    "notFoundDesc": "Diese Seite existiert nicht oder wurde verschoben."
+  }
+}

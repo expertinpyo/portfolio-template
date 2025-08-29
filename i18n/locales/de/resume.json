@@ -1,0 +1,241 @@
+{
+  "about": {
+    "fullName" : "Jordan Bauer",
+    "firstName": "Jordan",
+    "lastName": "Bauer",
+    "typedTargets": [
+      "Full-Stack Webentwickler",
+      "Frontend- und Backend-Entwickler",
+      "Ständiger Lerner"
+    ],
+    "location": "Europa",
+    "phone": "+1 00 000 0000",
+    "email": "jordan.bauer{'@'}example.com",
+    "linkedin": "https://www.linkedin.com/",
+    "github": "https://github.com/",
+    "desc": [
+      "Über 3 Jahre Erfahrung in der Webentwicklung",
+      "Fokus auf skalierbare Frontend- & Backend-Anwendungen",
+      "Vertraut mit agilen Teams und modernen Stacks"
+    ],
+    "profile" : "/imgs/profile.png"
+  },
+
+  "experience": {
+    "list": [
+      {
+        "company": "Acme Solutions",
+        "team": "Web Applications Division",
+        "logo": "/imgs/logo_acme.png",
+        "link": "https://example.com/acme",
+        "role": "Full-Stack-Entwickler",
+        "period": "Nov 2023 - Gegenwart",
+        "projects": [
+          {
+            "title": "Analytics Dashboard",
+            "subtitle": "Echtzeit-Dashboard für Unternehmens-KPIs",
+            "period": "Mai 2024 - Okt 2024",
+            "slug": "acme-dummy",
+            "duties": [
+              { "text": "Frontend", "sub": [ "Datenvisualisierung mit Chart.js", "Responsives Layout mit TailwindCSS" ] },
+              { "text": "Backend", "sub": [ "WebSocket-Live-Updates", "Datenaggregation & Caching mit Redis" ] }
+            ],
+            "achievements": [
+              "Echtzeitüberwachung von KPIs ermöglicht",
+              "Antwortzeit von Datenabfragen um 40% verbessert"
+            ],
+            "stacks": [ "Vue.js", "Spring Boot", "Redis", "PostgreSQL" ]
+          }
+        ]
+      },
+      {
+        "company": "NordicSoft",
+        "team": "Digital Services",
+        "logo": "/imgs/logo_nordicsoft.png",
+        "link": "https://example.com/nordicsoft",
+        "role": "Softwareentwickler",
+        "period": "Jan 2022 - Okt 2023",
+        "projects": [
+          {
+            "title": "Kundenportal",
+            "subtitle": "Self-Service-Portal für B2B-Kunden",
+            "period": "Mär 2022 - Dez 2022",
+            "slug": "",
+            "duties": [
+              { "text": "Frontend", "sub": [ "Single-Page-App mit Vue 3", "Formularvalidierung & API-Integration" ] },
+              { "text": "Backend", "sub": [ "Spring Boot Microservices", "MySQL mit JPA & QueryDSL" ] }
+            ],
+            "achievements": [
+              "Von über 100 Kunden innerhalb von 6 Monaten übernommen",
+              "Support-Tickets um 25% reduziert"
+            ],
+            "stacks": [ "Vue.js", "Spring Boot", "MySQL", "Java" ]
+          },
+          {
+            "title": "Content-Management-System",
+            "subtitle": "Headless CMS für Marketing-Teams",
+            "period": "Jan 2023 - Okt 2023",
+            "slug": "",
+            "duties": [
+              { "text": "Backend", "sub": [ "GraphQL-API mit Spring Boot", "Bild-/Dateispeicher-Integration" ] },
+              { "text": "Frontend", "sub": [ "Vue + Apollo Client", "Drag-and-Drop-Editor" ] }
+            ],
+            "achievements": [
+              "Nicht-technische Mitarbeiter konnten Inhalte selbst verwalten",
+              "Veröffentlichungszyklus von 3 Tagen auf 1 Tag reduziert"
+            ],
+            "stacks": [ "Vue.js", "Spring Boot", "GraphQL", "AWS S3" ]
+          }
+        ]
+      },
+      {
+        "company": "CloudEdge",
+        "team": "Web Engineering",
+        "logo": "/imgs/logo_cloudedge.png",
+        "link": "https://example.com/cloudedge",
+        "role": "Junior Webentwickler",
+        "period": "Jan 2021 - Dez 2021",
+        "projects": [
+          {
+            "title": "E-Commerce-Plattform",
+            "subtitle": "Skalierbare Plattform mit Warenkorb & Checkout",
+            "period": "Jan 2021 - Sep 2021",
+            "slug": "",
+            "duties": [
+              { "text": "Frontend", "sub": [ "Migration von Vue 2 zu Vue 3", "Optimierter Checkout-Flow" ] },
+              { "text": "Backend", "sub": [ "REST-APIs für Produkte/Bestellungen", "Zahlungsgateway-Integration" ] }
+            ],
+            "achievements": [
+              "Konversionsrate um 15% erhöht",
+              "Stabile Handhabung von 10k+ täglichen Nutzern"
+            ],
+            "stacks": [ "Vue.js", "Node.js", "MongoDB", "Express" ]
+          }
+        ]
+      }
+    ]
+  },
+
+  "education": {
+    "list": [
+      {
+        "name": "Tech Academy Europe",
+        "degree": "Full-Stack-Webentwicklungsprogramm (1500+ Stunden)",
+        "period": "Jan 2020 - Dez 2020",
+        "desc": [
+          "Studium moderner Web-Stacks: Vue, React, Node.js, Spring Boot",
+          "Teamprojekte in agiler Umgebung",
+          "Schwerpunkt auf REST-API-Design, DB-Schema und Frontend-Integration"
+        ],
+        "link": "https://example.com/techacademy",
+        "logo": "/imgs/logo_techacademy.png"
+      },
+      {
+        "name": "Universität für Angewandte Wissenschaften",
+        "degree": "B.Sc. Computer Engineering",
+        "period": "Sep 2015 - Jun 2019",
+        "desc": [
+          "Grundlagen der Softwaretechnik",
+          "OOP, Datenstrukturen, Algorithmen",
+          "Einführung in KI & Cloud Computing"
+        ],
+        "link": "https://example.com/university",
+        "logo": "/imgs/logo_university.png"
+      }
+    ]
+  },
+
+  "project": {
+    "list": [
+      {
+        "title": "Workforce-Portal",
+        "subtitle": "Internes Projekt- & Ressourcenmanagement",
+        "role": "Full-Stack-Entwickler",
+        "period": "2024",
+        "details": [ "Vue 3 Frontend", "Spring Boot API", "JWT-Authentifizierung" ],
+        "duties": [ "Frontend-State-Management", "DB-Schema & API-Design" ],
+        "achievements": [ "Transparenz in der Ressourcenplanung verbessert" ],
+        "stacks": [ "Vue.js", "Spring Boot", "PostgreSQL" ]
+      },
+      {
+        "title": "Analytics Dashboard",
+        "subtitle": "Echtzeitüberwachung von Unternehmens-KPIs",
+        "role": "Frontend-Entwickler",
+        "period": "2024",
+        "details": [ "Echtzeit-Charts", "Live-WebSocket-Updates" ],
+        "duties": [ "Chart.js-Integration", "WebSocket-Handling" ],
+        "achievements": [ "Entscheidungsprozesse beschleunigt" ],
+        "stacks": [ "Vue.js", "Spring Boot", "Redis" ]
+      },
+      {
+        "title": "Kundenportal",
+        "subtitle": "B2B-Self-Service-Web-App",
+        "role": "Backend-Entwickler",
+        "period": "2023",
+        "details": [ "Spring Boot Microservices", "MySQL-Abfragen" ],
+        "duties": [ "DB-Schema-Design", "REST-API für Benutzer/Bestellungen" ],
+        "achievements": [ "Supportanfragen reduziert" ],
+        "stacks": [ "Spring Boot", "MySQL", "Java" ]
+      },
+      {
+        "title": "Content-Management-System",
+        "subtitle": "Headless CMS für Marketing",
+        "role": "Full-Stack-Entwickler",
+        "period": "2023",
+        "details": [ "GraphQL-Backend", "Vue + Apollo Frontend" ],
+        "duties": [ "API-Design", "Rich-Text-Editor-UI" ],
+        "achievements": [ "Veröffentlichungszeit reduziert" ],
+        "stacks": [ "Spring Boot", "GraphQL", "Vue.js" ]
+      },
+      {
+        "title": "E-Commerce-Plattform",
+        "subtitle": "Online-Shop mit Checkout",
+        "role": "Junior Webentwickler",
+        "period": "2021",
+        "details": [ "Vue-Migration", "Zahlungsintegration" ],
+        "duties": [ "Frontend-Optimierung", "Zahlungs-API-Integration" ],
+        "achievements": [ "Konversionsrate erhöht" ],
+        "stacks": [ "Vue.js", "Node.js", "MongoDB" ]
+      }
+    ]
+  },
+
+  "skills": {
+    "list": [
+      {
+        "group": "first",
+        "name": "Vue.js",
+        "icon": "fa-brands fa-vuejs",
+        "desc": [ "SPA-Entwicklung", "Composition API", "State-Management mit Pinia/Vuex" ]
+      },
+      {
+        "group": "first",
+        "name": "Spring Boot",
+        "icon": "fa-solid fa-leaf",
+        "desc": [ "REST-APIs", "Authentifizierung & RBAC", "Query-Optimierung" ]
+      },
+      {
+        "group": "first",
+        "name": "Datenbanken",
+        "icon": "fa fa-database",
+        "desc": [ "PostgreSQL/MySQL-Schema-Design", "SQL-Tuning", "ORM mit JPA/QueryDSL" ]
+      },
+      {
+        "group": "second",
+        "name": "Node.js",
+        "icon": "fa-brands fa-node",
+        "desc": [ "API-Entwicklung mit Express", "Integration mit MongoDB" ]
+      },
+      {
+        "group": "second",
+        "name": "Git & CI/CD",
+        "icon": "fa-brands fa-git-alt",
+        "desc": [ "Feature-Branches & Code-Reviews", "CI-Pipelines für Build/Test" ]
+      }
+    ],
+    "languages": [
+      { "name": "Englisch", "level": "Fließend (C1)", "country": "US" },
+      { "name": "Deutsch", "level": "Mittelstufe (B1)", "country": "DE" }
+    ]
+  }
+}
